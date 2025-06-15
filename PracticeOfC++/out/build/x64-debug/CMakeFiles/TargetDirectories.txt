@@ -1,0 +1,5 @@
+C:/Users/Acost/source/repos/Practicas/PracticeOfC++/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/PracticeOfC++/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Acost/source/repos/Practicas/PracticeOfC++/out/build/x64-debug/PracticeOfC++/CMakeFiles/PracticeOfC++.dir
+C:/Users/Acost/source/repos/Practicas/PracticeOfC++/out/build/x64-debug/PracticeOfC++/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/PracticeOfC++/out/build/x64-debug/PracticeOfC++/CMakeFiles/rebuild_cache.dir
