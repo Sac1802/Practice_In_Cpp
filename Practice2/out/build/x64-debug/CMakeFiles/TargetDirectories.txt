@@ -1,0 +1,5 @@
+C:/Users/Acost/source/repos/Practicas/Practice2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Practice2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Acost/source/repos/Practicas/Practice2/out/build/x64-debug/Practice2/CMakeFiles/Practice2.dir
+C:/Users/Acost/source/repos/Practicas/Practice2/out/build/x64-debug/Practice2/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Practice2/out/build/x64-debug/Practice2/CMakeFiles/rebuild_cache.dir
