@@ -1,0 +1,5 @@
+C:/Users/Acost/source/repos/Practicas/Practive_Shorted_Words/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Practive_Shorted_Words/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Acost/source/repos/Practicas/Practive_Shorted_Words/out/build/x64-debug/Practive_Shorted_Words/CMakeFiles/Practive_Shorted_Words.dir
+C:/Users/Acost/source/repos/Practicas/Practive_Shorted_Words/out/build/x64-debug/Practive_Shorted_Words/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Practive_Shorted_Words/out/build/x64-debug/Practive_Shorted_Words/CMakeFiles/rebuild_cache.dir
