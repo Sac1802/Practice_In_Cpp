@@ -1,0 +1,5 @@
+C:/Users/Acost/source/repos/Practicas/Number_Decending/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Number_Decending/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Acost/source/repos/Practicas/Number_Decending/out/build/x64-debug/Number_Decending/CMakeFiles/Number_Decending.dir
+C:/Users/Acost/source/repos/Practicas/Number_Decending/out/build/x64-debug/Number_Decending/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Number_Decending/out/build/x64-debug/Number_Decending/CMakeFiles/rebuild_cache.dir
