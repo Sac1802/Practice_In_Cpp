@@ -1,0 +1,5 @@
+C:/Users/Acost/source/repos/Practicas/Dominant_element/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Dominant_element/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Acost/source/repos/Practicas/Dominant_element/out/build/x64-debug/Dominant_element/CMakeFiles/Dominant_element.dir
+C:/Users/Acost/source/repos/Practicas/Dominant_element/out/build/x64-debug/Dominant_element/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Dominant_element/out/build/x64-debug/Dominant_element/CMakeFiles/rebuild_cache.dir
