@@ -1,0 +1,5 @@
+C:/Users/Acost/source/repos/Practicas/Case_Sensitive/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Case_Sensitive/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Acost/source/repos/Practicas/Case_Sensitive/out/build/x64-debug/Case_Sensitive/CMakeFiles/Case_Sensitive.dir
+C:/Users/Acost/source/repos/Practicas/Case_Sensitive/out/build/x64-debug/Case_Sensitive/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Case_Sensitive/out/build/x64-debug/Case_Sensitive/CMakeFiles/rebuild_cache.dir
