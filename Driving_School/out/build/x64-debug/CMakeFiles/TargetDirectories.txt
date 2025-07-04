@@ -1,0 +1,5 @@
+C:/Users/Acost/source/repos/Practicas/Driving_School/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Driving_School/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Acost/source/repos/Practicas/Driving_School/out/build/x64-debug/Driving_School/CMakeFiles/Driving_School.dir
+C:/Users/Acost/source/repos/Practicas/Driving_School/out/build/x64-debug/Driving_School/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Driving_School/out/build/x64-debug/Driving_School/CMakeFiles/rebuild_cache.dir
