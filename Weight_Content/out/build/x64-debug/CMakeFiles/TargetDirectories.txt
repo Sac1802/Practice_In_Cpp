@@ -1,0 +1,5 @@
+C:/Users/Acost/source/repos/Practicas/Weight_Content/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Weight_Content/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Acost/source/repos/Practicas/Weight_Content/out/build/x64-debug/Weight_Content/CMakeFiles/Weight_Content.dir
+C:/Users/Acost/source/repos/Practicas/Weight_Content/out/build/x64-debug/Weight_Content/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/Weight_Content/out/build/x64-debug/Weight_Content/CMakeFiles/rebuild_cache.dir
