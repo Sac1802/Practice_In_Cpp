@@ -1,5 +1,0 @@
-C:/Users/Acost/source/repos/Practicas/reversal_equation/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/Acost/source/repos/Practicas/reversal_equation/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Acost/source/repos/Practicas/reversal_equation/out/build/x64-debug/reversal_equation/CMakeFiles/reversal_equation.dir
-C:/Users/Acost/source/repos/Practicas/reversal_equation/out/build/x64-debug/reversal_equation/CMakeFiles/edit_cache.dir
-C:/Users/Acost/source/repos/Practicas/reversal_equation/out/build/x64-debug/reversal_equation/CMakeFiles/rebuild_cache.dir
