@@ -1,0 +1,5 @@
+C:/Users/Acost/source/repos/Practicas/practice_recursive/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/practice_recursive/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Acost/source/repos/Practicas/practice_recursive/out/build/x64-debug/practice_recursive/CMakeFiles/practice_recursive.dir
+C:/Users/Acost/source/repos/Practicas/practice_recursive/out/build/x64-debug/practice_recursive/CMakeFiles/edit_cache.dir
+C:/Users/Acost/source/repos/Practicas/practice_recursive/out/build/x64-debug/practice_recursive/CMakeFiles/rebuild_cache.dir

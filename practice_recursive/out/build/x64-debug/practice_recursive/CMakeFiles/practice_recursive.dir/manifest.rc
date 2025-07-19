@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Acost/source/repos/Practicas/practice_recursive/out/build/x64-debug/practice_recursive/CMakeFiles/practice_recursive.dir/embed.manifest"
